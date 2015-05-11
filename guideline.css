@@ -1,0 +1,152 @@
+body{
+    font-family: 'Didact Gothic', sans-serif;
+    color: #5D838B;
+    background-color: #90C5D0;
+    
+}
+
+h1{
+    font-family: 'Days One', sans-serif;
+    color: white;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.strap{
+     
+}
+h2{
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h3{ color: white;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto; 
+    font-size: 2em;
+    text-align: center;
+    border-bottom: 1px solid #a0dce8;
+    padding-bottom: 7px
+}
+
+p{
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic{
+    max-height: 200px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic2{
+    max-height: 150px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    
+}
+
+.pic4{
+    max-height: 150px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 98px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    
+}
+
+.pic5{
+    max-height: 145px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 70px;
+    padding-top: 15px;
+    
+    
+}
+
+.pic3{
+    max-height: 150px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    
+}
+
+.pic6{
+    max-height: 150px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.pic7{
+    max-height: 150px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    
+}
+
+.pic8{
+    max-width: 550px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+
+.top{
+    height: 100vh;
+}
+
+.dtop{
+    padding-top: 200px
+}
+
+.colour{
+    max-height: 90px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.pri{
+    text-align: center;
+}
+
+.pic10{
+    max-width: 700px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    
+}
